@@ -4,3 +4,12 @@ p {
     
 }
 
+/* clases*/
+.saludo {
+    color: aquamarine;
+}
+
+/* ID */
+#saludo2 {
+    color: brown;
+}
